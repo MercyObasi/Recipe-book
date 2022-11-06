@@ -1,3 +1,3 @@
 # Recipe Book
 ## A simple recipe on prime rib roast
-![My Image](images/prime-rib-roast.png)
+![prime-rib-roast-image](images/prime-rib-roast-image.png)
